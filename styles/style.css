@@ -1,0 +1,30 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(44, 147, 231);
+}
+
+.relogio {
+    flex-direction: column;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.display {
+    background-color: rgba(0, 255, 128, 0.308);
+    color: rgb(255, 255, 255);
+    width: 400px;
+    height: 200px;
+    font-size: 6.5rem;
+    text-align: center;
+    line-height: 200px;
+    border-radius: 50px;
+}
+
+footer {
+    font-size: 2rem;
+    margin-top: 5px;
+    color: white;
+}
