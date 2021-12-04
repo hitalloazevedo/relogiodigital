@@ -1,2 +1,2 @@
 # Relogio_Digital
- relogio feito em HTML, CSS, Javascript
+ Relógio feito em HTML, CSS, Javascript
