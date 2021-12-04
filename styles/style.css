@@ -1,7 +1,7 @@
 html, body {
     padding: 0;
     margin: 0;
-    background-color: rgb(44, 147, 231);
+    background-color: rgb(10, 100, 255);
 }
 
 .relogio {
@@ -13,7 +13,7 @@ html, body {
 }
 
 .display {
-    background-color: rgba(0, 255, 128, 0.308);
+    background-color: rgb(10, 190, 255);
     color: rgb(255, 255, 255);
     width: 400px;
     height: 200px;
